@@ -22,6 +22,6 @@ To predict: whether star is pulsar or not (1 means star is pulsar and 0 means st
 The [Training Dataset](Train.csv) contains 12528 instances and [Test Dataset](Test.csv) contains 5370 examples.
 
 ## Results
-The [Data-analysis notebook](Data-analysis.ipynb) contains all the steps followed to make the model predict.
-The [Kernel notebook](Kernel.ipynb) contains the visualizations and interpretations made during the process.
+The [Kernel notebook](Kernel.ipynb) contains all the steps followed to make the model predict.
+The [Data-analysis notebook](Data-analysis.ipynb) contains the visualizations and interpretations made during the process.
 [Predictions.csv](Predictions.csv) file contains the predictions made by our model and [True_Values.csv](True_Values.csv) contains the actual value of a star being Pulsar star or not.
